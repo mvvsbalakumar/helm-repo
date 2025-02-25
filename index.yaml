@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bala:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-02-25T12:16:52.417552915Z"
+    description: A Helm chart for Kubernetes
+    digest: d1b1dbb13936dfc5f03ff51b333b390d391589932596b859abb81ce613b3517c
+    name: bala
+    type: application
+    urls:
+    - bala-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-25T12:16:52.417046321Z"
